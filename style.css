@@ -40,3 +40,15 @@ button:active {
   box-shadow: 0 5px #666;
   transform: translateY(4px);
 }
+
+footer {
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    font-size: 22px;
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    margin-top: 10vh;
+}
