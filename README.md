@@ -1,2 +1,5 @@
 # Rock-Paper-Scissor
-A small rock, paper, scissors game from The Odin Project curriculum.
+A rock, paper, scissors game to showcase my HTML, CSS and JavaScript skills.
+
+
+
